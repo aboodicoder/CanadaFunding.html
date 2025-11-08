@@ -1,16 +1,9 @@
+
 <!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Account Notice — Canadian Goverment Funding (money that you owe)</title>
-<style>
-  :root{
-    --bg:#0b0b10;
-    --panel:#1b0b0b;
-    --red:#ff3b3b;
-    --muted:#c9c9c9;
-    --accent:#ffdede;
   }
   html,body{height:100%;margin:0;font-family:Inter, "Segoe UI", Roboto, sans-serif;background:linear-gradient(180deg,#07070a,#0f0f13);color:#fff}
   .wrap{max-width:980px;margin:28px auto;padding:18px}
@@ -47,7 +40,6 @@
   <div class="wrap">
     <div class="banner" role="status" aria-live="polite">
       <div>
-        <strong>Canadian Goverment Funding</strong>
         <div><small>This page is intentionally a threat for overdue payments.</small></div>
       </div>
       <div style="margin-left:auto;text-align:right">
