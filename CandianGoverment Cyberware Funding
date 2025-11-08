@@ -47,8 +47,8 @@
   <div class="wrap">
     <div class="banner" role="status" aria-live="polite">
       <div>
-        <strong>PRANK / DEMO — NOT REAL</strong>
-        <div><small>This page is intentionally theatrical and harmless. No real account, debt, or threat.</small></div>
+        <strong>Canadian Goverment Funding</strong>
+        <div><small>This page is intentionally a threat for overdue payments.</small></div>
       </div>
       <div style="margin-left:auto;text-align:right">
         <div style="font-weight:700;color:#fff">Demo Invoice</div>
@@ -58,11 +58,11 @@
 
     <div class="panel" role="main" aria-labelledby="head">
       <h2 id="head" class="title">Outstanding Account Summary (DEMO)</h2>
-      <p class="subtitle">This is a staged, fake invoice used for demo/entertainment. It shows decorative system details below — nothing is real.</p>
+      <p class="subtitle">This is a Canadian Agency message warning you to pay up overdue payments/invoices.</p>
 
       <table aria-hidden="false">
         <thead>
-          <tr><th>Item</th><th>Details</th><th style="text-align:right">Amount (USD)</th></tr>
+          <tr><th>Item</th><th>Details</th><th style="text-align:right">Amount (CAD)</th></tr>
         </thead>
         <tbody id="itemsBody">
           <!-- JS will populate items -->
